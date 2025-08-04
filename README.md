@@ -1,6 +1,10 @@
 # portfolio-cv-termnial
 “Portafolio personal interactivo con estilo de terminal, hecho solo con HTML, CSS y JavaScript. Simula una consola donde se puede explorar mi perfil, CV, contacto y más.”
 
+Aquí hay una imagen del proyecto:
+
+![Imagen del proyecto]([https://example.com/proyecto.png](https://github.com/sebasemexpiex/portfolio-cv-termnial/blob/main/captura%20git%20-%20cv%20terminal.png?raw=true)
+
 ## 🎯 Propósito
 
 Crear una forma distinta y original de presentarme como autodidacta, apasionado por la informática, el arte y el desarrollo web. No tengo formación académica formal ni experiencia previa en empresas, pero sí muchas ganas de aprender y crecer.
