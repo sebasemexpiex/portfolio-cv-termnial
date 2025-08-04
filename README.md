@@ -3,7 +3,7 @@
 
 Aquí hay una imagen del proyecto:
 
-![Imagen del proyecto]([https://example.com/proyecto.png](https://github.com/sebasemexpiex/portfolio-cv-termnial/blob/main/captura%20git%20-%20cv%20terminal.png?raw=true)
+![Imagen del proyecto](https://github.com/sebasemexpiex/portfolio-cv-termnial/blob/main/captura%20git-cv%20terminal.png?raw=true)
 
 ## 🎯 Propósito
 
