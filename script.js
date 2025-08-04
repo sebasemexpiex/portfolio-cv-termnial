@@ -1,4 +1,4 @@
-﻿const input = document.getElementById('input');
+const input = document.getElementById('input');
 const output = document.getElementById('output');
 
 const commands = {
@@ -38,3 +38,6 @@ input.addEventListener('keydown', function(e) {
     input.value = '';
   }
 });
+  }
+});
+
