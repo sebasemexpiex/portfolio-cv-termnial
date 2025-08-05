@@ -9,7 +9,7 @@ Aquí hay una imagen del proyecto:
 
 Crear una forma distinta y original de presentarme como autodidacta, apasionado por la informática, el arte y el desarrollo web. No tengo formación académica formal ni experiencia previa en empresas, pero sí muchas ganas de aprender y crecer.
 
-Este proyecto fue construido de forma artesanal, acompañado por inteligencia artificial (Kairo), en un proceso de autoaprendizaje constante.
+Este proyecto fue construido de forma artesanal, en un proceso de autoaprendizaje constante.
 
 ## 🧩 ¿Qué comandos puedo usar?
 
