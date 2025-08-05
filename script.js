@@ -38,6 +38,5 @@ input.addEventListener('keydown', function(e) {
     input.value = '';
   }
 });
-  }
-});
+
 
